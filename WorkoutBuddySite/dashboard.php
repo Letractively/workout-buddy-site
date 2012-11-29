@@ -8,12 +8,13 @@
 <body>
     <div class="main-container">
     	<div id="barUser">
-               	Welcome, <strong>User</strong> <span class="textSmall">(<a href="index.php">Sign out</a>)</span>
+               	Welcome, <strong>Peter</strong> <span class="textSmall">(<a href="index.php">Sign out</a>)</span>
         </div>
         <h1>Workout Buddy</h1>
         <ul id="barNav">
             <li><a class="current" href="#">Dashboard</a></li>
             <li><a href="#">Progress</a></li>
+            <li><a href="#">Schedule</a></li>
             <li><a href="#">Preferences</a></li>
         </ul>
         <div class="content">
