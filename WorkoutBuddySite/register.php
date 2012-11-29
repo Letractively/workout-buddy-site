@@ -8,7 +8,7 @@
 <body>
     <div class="main-container">
         <div id="barUser">
-        	<form id="frmLogin">
+        	<form id="frmLogin" action="dashboard.php" method="POST">
             	<label for="txtUsername">Username:</label>
                 <input type="text" name="txtUsername" />
                 <label for="txtPassword">Password:</label>
