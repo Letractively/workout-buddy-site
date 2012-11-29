@@ -27,7 +27,13 @@ html,body
 
 .textSmall
 {
-	font-size: 75%;
+	font-size: 11px;
+}
+
+label.small
+{
+	font-size: 11px;
+	color: gray;
 }
 
 #barUser

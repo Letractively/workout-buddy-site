@@ -14,6 +14,7 @@
                 <input type="password" name="txtPassword" />
                 <input type="submit" class="button small" value="Login">
             </form>
+            <a href="#" class="textSmall">Forgot Password?</a>
         </div>
         <h1>Workout Buddy</h1>
         <ul id="barNav">
@@ -22,7 +23,7 @@
         </ul>
         <div class="content">
             <p>Welcome to Workout Buddy! Workout Buddy helps connect you with exercise partners to help motivate you.</p>
-            <a href="register.php" class="button large">Register for Free</a>
+            <p align="center"><a href="register.php" class="button large">Register for Free</a></p>
         </div>
     </div>
 </body>
