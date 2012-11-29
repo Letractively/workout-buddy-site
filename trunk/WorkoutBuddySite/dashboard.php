@@ -60,6 +60,8 @@
                                 <td width="1px"><div class="healthBar large"><div class="healthBar-amount" style="width:80%"></div></div></td>
                             </tr>
                         </table>
+                        <h3>Today's Exercise Tip</h3>
+                        <p>Eat a banana within 60 minutes of finishing your workout. <a href="#">Learn More...</a></p>
                         <h3>Upcoming Events</h3>
                         <h3>Your Recent Activity</h3>
                     </td>
