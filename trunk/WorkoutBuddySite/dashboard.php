@@ -21,7 +21,7 @@
             	<tr>
                 	<td id="leftCol">
                     	<img src="images/peter.jpg"><br />
-                        <h3>Friends</h3>
+                        <h3 id="friendsHeader">Friends</h3>
                         <ul id="friends">
                         	<li>
                             	<span class="friendLabel">Joe Bruin</span>
