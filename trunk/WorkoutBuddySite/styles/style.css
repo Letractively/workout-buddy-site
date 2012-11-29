@@ -112,3 +112,12 @@ html,body
 	width: 200px;
 	height: 20px;
 }
+
+.healthBar-amount
+{
+	background-color: green;
+	position: relative;
+	top: 2px;
+	left: 2px;
+	height: 16px;
+}
