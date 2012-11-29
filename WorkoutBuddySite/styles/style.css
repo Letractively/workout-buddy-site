@@ -5,10 +5,24 @@
 	margin-left: auto;
 	margin-right: auto;
 	font-family: Arial, Helvetica, sans-serif;
+	min-height: 100%;
 }
 
 .content
-{	
+{
+	display: block;
+	padding-top: 20px;
+	width: 100%;
+	border: 5px solid lightblue;
+	border-top: 0px;
+	padding-left: 10px;
+	padding-right: 4px;
+	min-height: 300px;
+}
+
+html,body 
+{
+    height:100%;
 }
 
 .textSmall
@@ -20,7 +34,7 @@
 {
 	width: 100%;
 	text-align: right;
-	padding: 5px 10px;
+	padding: 5px 12px;
 }
 
 #barNav
@@ -31,8 +45,8 @@
 	background-color: lightblue;
 	padding-top: 8px;
 	padding-bottom: 0px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 12px;
+	padding-right: 12px;
 }
 
 #barNav li
