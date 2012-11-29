@@ -27,7 +27,7 @@
                     	<table id="nameHeader">
                         	<tr>
                             	<td><h2 id="userName">Peter Anteater</h2></td>
-                                <td width="1px"><div class="healthBar"></div></td>
+                                <td width="1px"><div class="healthBar"><div class="healthBar-amount" style="width:80%"></div></div></td>
                             </tr>
                         </table>
                         <h3>Upcoming Events</h3>
