@@ -24,18 +24,31 @@
                         <h3 id="friendsHeader">Friends</h3>
                         <ul id="friends">
                         	<li>
-                            	<span class="friendLabel">Joe Bruin</span>
+                            	<a class="friendLabel" href="#">Joe Bruin</a>
                                 <div class="healthBar small"><div class="healthBar-amount" style="width:70%"></div></div>
                             </li>
                             <li>
-                            	<span class="friendLabel">Triton</span>
+                            	<a class="friendLabel" href="#">Triton</a>
                                 <div class="healthBar small"><div class="healthBar-amount" style="width:50%;background-color:gold;"></div></div>
                             </li>
                             <li>
-                            	<span class="friendLabel">Oski</span> <div class="healthBar small"><div class="healthBar-amount" style="width:90%"></div></div>
+                            	<a class="friendLabel" href="#">Oski</a>
+                                <div class="healthBar small"><div class="healthBar-amount" style="width:90%"></div></div>
                             </li>
                             <li>
-                            	<span class="friendLabel">Gunrock</span> <div class="healthBar small"><div class="healthBar-amount" style="width:10%;background-color:red;"></div></div>
+                            	<a class="friendLabel" href="#">Gunrock</a>
+                                <div class="healthBar small"><div class="healthBar-amount" style="width:10%;background-color:red;"></div></div>
+                            </li>
+                        </ul>
+                        <h3 id="friendsHeader">People Near You</h3>
+                        <ul id="friends">
+                        	<li>
+                            	<a class="friendLabel" href="#">Jason</a>
+                                <div class="healthBar small"><div class="healthBar-amount" style="width:88%"></div></div>
+                            </li>
+                            <li>
+                            	<a class="friendLabel" href="#">Moses</a>
+                                <div class="healthBar small"><div class="healthBar-amount" style="width:95%;"></div></div>
                             </li>
                         </ul>
                     </td>
@@ -47,6 +60,7 @@
                             </tr>
                         </table>
                         <h3>Upcoming Events</h3>
+                        <h3>Your Recent Activity</h3>
                     </td>
                 </tr>
             </table>
