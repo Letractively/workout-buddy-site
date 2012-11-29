@@ -104,3 +104,11 @@ html,body
 	font-size: 12px;
 	padding: 2px 4px;
 }
+
+.healthBar
+{
+	display: block;
+	border: 1px solid;
+	width: 200px;
+	height: 20px;
+}
