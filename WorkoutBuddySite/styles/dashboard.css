@@ -1,0 +1,31 @@
+﻿#dashboard
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#dashboard td
+{
+	vertical-align: top;
+	
+	padding: 0px 5px;
+}
+
+#dashboard h2,
+#dashboard h3
+{
+	margin: 0;
+}
+
+#leftCol
+{
+	width: 15%;
+}
+
+#nameHeader
+{
+	border-collapse: collapse;
+	width: 100%;
+	border-bottom: 1px solid black;
+	margin-bottom: 20px;
+}
