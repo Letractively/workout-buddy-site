@@ -22,12 +22,28 @@
                 	<td id="leftCol">
                     	<img src="images/peter.jpg"><br />
                         <h3>Friends</h3>
+                        <ul id="friends">
+                        	<li>
+                            	<span class="friendLabel">Joe Bruin</span>
+                                <div class="healthBar small"><div class="healthBar-amount" style="width:70%"></div></div>
+                            </li>
+                            <li>
+                            	<span class="friendLabel">Triton</span>
+                                <div class="healthBar small"><div class="healthBar-amount" style="width:50%;background-color:gold;"></div></div>
+                            </li>
+                            <li>
+                            	<span class="friendLabel">Oski</span> <div class="healthBar small"><div class="healthBar-amount" style="width:90%"></div></div>
+                            </li>
+                            <li>
+                            	<span class="friendLabel">Gunrock</span> <div class="healthBar small"><div class="healthBar-amount" style="width:10%;background-color:red;"></div></div>
+                            </li>
+                        </ul>
                     </td>
                     <td>
                     	<table id="nameHeader">
                         	<tr>
                             	<td><h2 id="userName">Peter Anteater</h2></td>
-                                <td width="1px"><div class="healthBar"><div class="healthBar-amount" style="width:80%"></div></div></td>
+                                <td width="1px"><div class="healthBar large"><div class="healthBar-amount" style="width:80%"></div></div></td>
                             </tr>
                         </table>
                         <h3>Upcoming Events</h3>
