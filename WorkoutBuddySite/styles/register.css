@@ -1,0 +1,11 @@
+﻿#frmRegister input[type=text],
+#frmRegister input[type=password]
+{
+	display: block;
+	width: 300px;
+}
+
+#frmRegister .inputGroup
+{
+	padding-bottom: 15px;
+}

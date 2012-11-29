@@ -1,0 +1,92 @@
+﻿.main-container
+{
+	display: block;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.content
+{	
+}
+
+.textSmall
+{
+	font-size: 75%;
+}
+
+#barUser
+{
+	width: 100%;
+	text-align: right;
+	padding: 5px 10px;
+}
+
+#barNav
+{
+	margin: 0;
+	width: 100%;
+	list-style: none;
+	background-color: lightblue;
+	padding-top: 8px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#barNav li
+{
+    display: inline;
+}
+
+#barNav li a
+{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	font-size: 110%;
+	padding-top: 5px;
+	padding-bottom: 8px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#barNav li a.current
+{
+	background-color: white;
+}
+
+#frmLogin input[type=text],
+#frmLogin input[type=password]
+{
+	width: 90px;
+}
+
+#frmLogin label
+{
+	padding-left: 5px;
+}
+
+.button
+{
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 1px solid #060;
+	background: #6e9e2d;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.button.large
+{
+	font-size: 18px;
+	padding: 5px 10px;
+}
+
+.button.small
+{
+	font-size: 12px;
+	padding: 2px 4px;
+}
