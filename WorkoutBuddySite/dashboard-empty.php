@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Dashboard - Workout Buddy</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" type="text/css" href="styles/dashboard.css">
+</head>
+<body>
+    <div class="main-container">
+    	<div id="barUser">
+               	Welcome, <strong>Peter</strong> <span class="textSmall">(<a href="index.php">Sign out</a>)</span>
+        </div>
+        <h1>Workout Buddy</h1>
+        <ul id="barNav">
+            <li><a class="current" href="dashboard-empty.php">Dashboard</a></li>
+            <li><a href="progress.php">Progress</a></li>
+            <li><a href="schedule.php">Schedule</a></li>
+            <li><a href="preferences.php">Preferences</a></li>
+            <li><a href="rewards.php">Rewards</a></li>
+        </ul>
+        <div class="content">
+            <table id="dashboard">
+            	<tr>
+                	<td id="leftCol">
+                    	<img src="images/peter.jpg"><br />
+                        <h3 id="friendsHeader">Friends</h3>
+                        <div class="section">
+                        </div>
+                        <h3 id="friendsHeader">People Near You</h3>
+                        <div class="section">
+                        </div>
+                    </td>
+                    <td>
+                    	<table id="nameHeader">
+                        	<tr>
+                            	<td><h2 id="userName">Peter Anteater</h2></td>
+                                <td width="1px"><div class="healthBar large"><div class="healthBar-amount" style="width:0%"></div></div></td>
+                            </tr>
+                        </table>
+                        <div class="section">
+                        	<h3>Welcome!</h3>
+                            <p>Thank you for creating an account. We just need to know a few details to help you get the most out of Workout Buddy</p>
+                            <p align="center"><a href="preferences.php" class="button large">Set up Preferences</a></p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
