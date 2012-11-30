@@ -27,7 +27,7 @@
                         <div class="section">
                             <ul id="friends">
                                 <li>
-                                    <a class="friendLabel" href="#">Joe Bruin</a>
+                                    <a class="friendLabel" href="under-construction.php">Joe Bruin</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:70%"></div></div>
                                 </li>
                                 <li>
@@ -39,7 +39,7 @@
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:90%"></div></div>
                                 </li>
                                 <li>
-                                    <a class="friendLabel" href="under-construction.php">Gunrock</a>
+                                    <a class="friendLabel" href="gunrock.php">Gunrock</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:10%;background-color:red;"></div></div>
                                 </li>
                             </ul>
