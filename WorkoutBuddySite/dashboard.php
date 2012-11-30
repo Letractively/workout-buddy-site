@@ -48,11 +48,11 @@
                         <div class="section">
                             <ul id="friends">
                                 <li>
-                                    <a class="friendLabel" href="#">Jason</a>
+                                    <a class="friendLabel" href="sammy.php">Sammy</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:88%"></div></div>
                                 </li>
                                 <li>
-                                    <a class="friendLabel" href="under-construction.php">Moses</a>
+                                    <a class="friendLabel" href="under-construction.php">Gaucho</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:95%;"></div></div>
                                 </li>
                             </ul>

@@ -22,21 +22,17 @@
             <table id="dashboard">
             	<tr>
                 	<td id="leftCol">
-                    	<img src="images/gunrock.jpg"><br />
+                    	<img src="images/sammy.jpg"><br />
                         <h3 id="friendsHeader">Friends</h3>
                         <div class="section">
                             <ul id="friends">
                                 <li>
-                                    <a class="friendLabel" href="dashboard.php">Peter Anteater</a>
-                                    <div class="healthBar small"><div class="healthBar-amount" style="width:80%"></div></div>
+                                    <a class="friendLabel" href="gunrock.php">Gunrock</a>
+                                    <div class="healthBar small"><div class="healthBar-amount" style="width:10%;background-color:red;"></div></div>
                                 </li>
                                 <li>
                                     <a class="friendLabel" href="under-construction.php">Oski</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:90%"></div></div>
-                                </li>
-                                <li>
-                                    <a class="friendLabel" href="sammy.php">Sammy</a>
-                                    <div class="healthBar small"><div class="healthBar-amount" style="width:95%"></div></div>
                                 </li>
                             </ul>
                         </div>
@@ -44,31 +40,31 @@
                     <td>
                     	<table id="nameHeader">
                         	<tr>
-                            	<td><h2 id="userName">Gunrock</h2></td>
-                                <td width="1px"><div class="healthBar large"><div class="healthBar-amount" style="width:10%;background-color:red;"></div></div></td>
+                            	<td><h2 id="userName">Sammy the Slug</h2></td>
+                                <td width="1px"><div class="healthBar large"><div class="healthBar-amount" style="width:88%"></div></div></td>
                             </tr>
                         </table>           
                         <div class="section" style="text-align:right">
                         	<br />
-                            <a href="#" class="button medium">Invite To Exercise</a>
+                            <a href="#" class="button medium">Add as Friend</a>
                         </div>             
                         <div class="section">
-                            <h3>Gunrock's Recent Activity</h3>
+                            <h3>Sammy the Slug's Recent Activity</h3>
                             <table class="activityTable">
                                 <tr>
-                                    <td>Gunrock hasn't exercised in 7 days!</td>
+                                    <td>Sammy the Slug swam by himself</td>
+                                    <td><span class="textSmall">1 days ago</span></td>
+                                    <td><span class="positive">+2</span></td>
+                                </tr>
+                                <tr>
+                                    <td>Sammy the Slug jogged with <a href="under-construction.php">Oski</a></td>
                                     <td><span class="textSmall">5 days ago</span></td>
-                                    <td><span class="negative">-30</span></td>
+                                    <td><span class="positive">+20</span></td>
                                 </tr>
                                 <tr>
-                                    <td>Gunrock hasn't exercised in 7 days!</td>
-                                    <td><span class="textSmall">12 days ago</span></td>
-                                    <td><span class="negative">-20</span></td>
-                                </tr>
-                                <tr>
-                                    <td>Gunrock hasn't exercised in 7 days!</td>
-                                    <td><span class="textSmall">19 days ago</span></td>
-                                    <td><span class="negative">-10</span></td>
+                                    <td>Sammy the Slug ran a marathon with <a href="under-construction.php">Oski</a></td>
+                                    <td><span class="textSmall">10 days ago</span></td>
+                                    <td><span class="positive">+90</span></td>
                                 </tr>
                                 <tr>
                                     <td colspan="3"><a href="#" class="textSmall">View More...</a></td>
