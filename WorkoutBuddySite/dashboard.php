@@ -31,15 +31,15 @@
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:70%"></div></div>
                                 </li>
                                 <li>
-                                    <a class="friendLabel" href="#">Triton</a>
+                                    <a class="friendLabel" href="under-construction.php">Triton</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:50%;background-color:gold;"></div></div>
                                 </li>
                                 <li>
-                                    <a class="friendLabel" href="#">Oski</a>
+                                    <a class="friendLabel" href="under-construction.php">Oski</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:90%"></div></div>
                                 </li>
                                 <li>
-                                    <a class="friendLabel" href="#">Gunrock</a>
+                                    <a class="friendLabel" href="under-construction.php">Gunrock</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:10%;background-color:red;"></div></div>
                                 </li>
                             </ul>
@@ -52,7 +52,7 @@
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:88%"></div></div>
                                 </li>
                                 <li>
-                                    <a class="friendLabel" href="#">Moses</a>
+                                    <a class="friendLabel" href="under-construction.php">Moses</a>
                                     <div class="healthBar small"><div class="healthBar-amount" style="width:95%;"></div></div>
                                 </li>
                             </ul>
