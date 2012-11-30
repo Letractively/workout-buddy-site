@@ -1,0 +1,68 @@
+﻿input[type=text],
+input[type=password],
+select
+{
+	display: block;
+	width: 300px;
+}
+
+input[type=checkbox]
+{
+	margin-left: 1em;
+}
+
+label
+{
+	display: inline-block;
+	padding-bottom: 5px;
+}
+
+.inputGroup
+{
+	padding-bottom: 15px;
+}
+
+#barSubmenu
+{
+	margin: 0;
+	width: 95%;
+	list-style: none;
+	background-color: yellowgreen;
+	padding-top: 8px;
+	padding-bottom: 0px;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+#barSubmenu li
+{
+    display: inline;
+}
+
+#barSubmenu li a
+{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	font-size: 100%;
+	padding-top: 5px;
+	padding-bottom: 8px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#barSubmenu li a.current
+{
+	background-color: white;
+}
+
+.subcontent
+{
+	display: block;
+	padding-top: 20px;
+	width: 95%;
+	border: 5px solid yellowgreen;
+	border-top: 0px;
+	padding-left: 10px;
+	padding-right: 4px;
+}
