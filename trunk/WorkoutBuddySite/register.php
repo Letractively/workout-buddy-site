@@ -24,7 +24,7 @@
         </ul>
         <div class="content">
             <h2>Register</h2>
-            <form id="frmRegister" action="dashboard.php" method="POST">
+            <form id="frmRegister" action="register-success.php" method="POST">
             	<div class="inputGroup">
                     <label for="txtName">Full Name:</label>                    
                     <input type="text" name="txtName" />
