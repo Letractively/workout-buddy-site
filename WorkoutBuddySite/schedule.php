@@ -18,8 +18,13 @@
             <li><a href="preferences.php">Preferences</a></li>
             <li><a href="rewards.php">Rewards</a></li>
         </ul>
-        <div class="content">
-            <h2 align="center">December 2012</h2>
+        <div class="content" style="text-align:center">
+            <h2>December 2012</h2>
+            <div id="toolbar">
+            	<a href="under-construction.php" class="button small">Add New Appointment</a> |
+                <a href="under-construction.php" class="button small">Import Google Calendar</a> |
+                <a href="under-construction.php" class="button small">Import Facebook Events</a>
+          </div>
             <table border="1" align="center">
                 <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr>
                 <tr><td><span class="date">&nbsp;</span></td><td><span class="date">&nbsp;</span></td><td><span class="date">&nbsp;</span></td><td><span class="date">&nbsp;</span></td><td><span class="date">&nbsp;</span></td><td><span class="date">&nbsp;</span></td><td><span class="date">1</span></td></tr>
