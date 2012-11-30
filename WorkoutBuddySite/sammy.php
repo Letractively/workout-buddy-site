@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Gunrock - Workout Buddy</title>
+    <title>Sammy - Workout Buddy</title>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link rel="stylesheet" type="text/css" href="styles/dashboard.css">
 </head>
@@ -67,7 +67,7 @@
                                     <td><span class="positive">+90</span></td>
                                 </tr>
                                 <tr>
-                                    <td colspan="3"><a href="#" class="textSmall">View More...</a></td>
+                                    <td colspan="3"><a href="under-construction.php" class="textSmall">View More...</a></td>
                                 </tr>
                             </table>
                          </div>

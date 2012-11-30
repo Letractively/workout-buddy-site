@@ -71,7 +71,7 @@
                                     <td><span class="negative">-10</span></td>
                                 </tr>
                                 <tr>
-                                    <td colspan="3"><a href="#" class="textSmall">View More...</a></td>
+                                    <td colspan="3"><a href="under-construction.php" class="textSmall">View More...</a></td>
                                 </tr>
                             </table>
                          </div>
