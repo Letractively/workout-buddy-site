@@ -61,9 +61,46 @@
                             </tr>
                         </table>
                         <h3>Today's Exercise Tip</h3>
-                        <p>Eat a banana within 60 minutes of finishing your workout. <a href="#">Learn More...</a></p>
+                        <p>Eat a banana within 60 minutes of finishing your workout. <a class="textSmall" href="#">Learn More...</a></p>
                         <h3>Upcoming Events</h3>
+                        <table class="activityTable">
+                        	<tr>
+                            	<td width="69%"><a href="#">Oski</a> is hosting a soccer match</td>
+                                <td><span class="textSmall">In 4 days</span></td>
+                                <td align="center"><input type="submit" class="button small" value="join" /></td>
+                            </tr>
+                            <tr>
+                            	<td>Weekly jog with <a href="#">Joe Bruin</a></td>
+                                <td><span class="textSmall">In 6 days</span></td>
+                                <td align="center"><a class="textSmall" href="#">Cancel Event</a></td>
+                            </tr>
+                        </table>
                         <h3>Your Recent Activity</h3>
+                        <table class="activityTable">
+                        	<tr>
+                            	<td width="69%">You jogged with <a href="#">Joe Bruin</a></td>
+                                <td><span class="textSmall">Yesterday</span></td>
+                                <td><span class="positive">+30</span></td>
+                            </tr>
+                            <tr>
+                            	<td>You played soccer with <a href="#">Triton</a></td>
+                                <td><span class="textSmall">2 days ago</span></td>
+                                <td><span class="positive">+15</span></td>
+                            </tr>
+                            <tr>
+                            	<td>You went to the gym by yourself</td>
+                                <td><span class="textSmall">4 days ago</span></td>
+                                <td><span class="positive">+2</span></td>
+                            </tr>
+                            <tr>
+                            	<td>You haven't exercised in 7 days!</td>
+                                <td><span class="textSmall">5 days ago</span></td>
+                                <td><span class="negative">-10</span></td>
+                            </tr>
+                            <tr>
+                            	<td colspan="3"><a href="#" class="textSmall">View More...</a></td>
+                            </tr>
+                        </table>
                     </td>
                 </tr>
             </table>
