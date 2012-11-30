@@ -33,10 +33,27 @@ td
 }
 
 .date
-{     
+{
+	display: block;
     font-size: large;
-    padding: 0.25em 0.25em;   
+    padding: 0.25em 0.25em;
     text-align: left;
     vertical-align: top;
+}
+
+.info
+{
+	font-size: small;
+	padding: 0.25em 0.25em;  
+}
+
+.grayed
+{
+	background-color: #EBEBEB;
+}
+
+.busy
+{
+	background-color: #FFE8E8;
 }
    
