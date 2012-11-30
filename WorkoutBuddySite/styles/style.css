@@ -18,6 +18,7 @@
 	padding-left: 10px;
 	padding-right: 4px;
 	min-height: 300px;
+	font-size: 90%;
 }
 
 html,body 
@@ -143,4 +144,16 @@ label.small
 	top: 1px;
 	left: 1px;
 	height: 8px;
+}
+
+.positive
+{
+	color: green;
+	font-weight: bold;
+}
+
+.negative
+{
+	color: red;
+	font-weight: bold;
 }
