@@ -22,7 +22,7 @@
             <table id="dashboard">
             	<tr>
                 	<td id="leftCol">
-                    	<img src="images/peter.jpg"><br />
+                    	<img src="images/gunrock.jpg"><br />
                         <h3 id="friendsHeader">Friends</h3>
                         <div class="section">
                             <ul id="friends">
