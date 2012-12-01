@@ -1,17 +1,17 @@
-﻿#frmRegister input[type=text],
-#frmRegister input[type=password]
+﻿#frmRegistration input[type=text],
+#frmRegistration input[type=password]
 {
 	display: block;
 	width: 300px;
 }
 
-#frmRegister label
+#frmRegistration label
 {
 	display: inline-block;
 	padding-bottom: 5px;
 }
 
-#frmRegister .inputGroup
+#frmRegistration .inputGroup
 {
 	padding-bottom: 10px;
 }

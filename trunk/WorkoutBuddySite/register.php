@@ -8,14 +8,12 @@
 <body>
     <div class="main-container">
         <div id="barUser">
-        	<form id="frmLogin" action="dashboard.php" method="POST">
-            	<label for="txtUsername">Username:</label>
-                <input type="text" name="txtUsername" />
-                <label for="txtPassword">Password:</label>
-                <input type="password" name="txtPassword" />
-                <input type="submit" class="button small" value="Login">
-            </form>
-            <a href="#" class="textSmall">Forgot Password?</a>
+        	<label for="txtUsername">Username:</label>
+            <input type="text" name="txtUsername" />
+            <label for="txtPassword">Password:</label>
+            <input type="password" name="txtPassword" />
+            <a href="dashboard.php" class="button small">Login</a><br />
+            <a href="under-construction.php" class="textSmall">Forgot Password?</a>
         </div>
         <h1>Workout Buddy</h1>
         <ul id="barNav">
@@ -24,8 +22,8 @@
         </ul>
         <div class="content">
             <h2>Register</h2>
-            <form id="frmRegister" action="dashboard-empty.php" method="POST">
-            	<div class="inputGroup">
+                <div id="frmRegistration">
+                <div class="inputGroup">
                     <label for="txtName">Full Name:</label>                    
                     <input type="text" name="txtName" />
                     <label class="small">Helps your friends find you</label>
@@ -51,10 +49,11 @@
                     <label class="small">Make sure you got it right</label>
                 </div>
                 <div class="inputGroup">
-                	<p></p>
-                	<input type="submit" class="button large" value="Register"> <a href="index.php">Cancel</a>
+                    <p></p>
+                    <a href="dashboard-empty.php" class="button large">Register</a>
+                    <a href="index.php">Cancel</a>
                 </div>
-            </form>
+            </div>
         </div>
     </div>
 </body>
