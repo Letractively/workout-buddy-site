@@ -19,7 +19,7 @@
             <li><a href="rewards.php">Rewards</a></li>
         </ul>
         <div class="content">
-            <p align="right" style="padding-right:12px"><a href="#" class="button medium">Add New Activity</a>
+            <p align="right" style="padding-right:12px"><a href="under-construction.php" class="button medium">Add New Activity</a>
             <h4>Your Current Fitness Level</h4>
             <div class="healthBar huge"><div class="healthBar-amount" style="width:80%"></div></div>
             <h4>Your Area's Average Fitness Level</h4>
@@ -46,7 +46,7 @@
                 </tr>
             </table>
             <h4>Your Health</h4>
-            
+            <p>At this fitness level, you will extend your life by <span class="lifeYears">10</span> years</p>
         </div>
     </div>
 </body>
