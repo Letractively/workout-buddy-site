@@ -78,14 +78,14 @@
                             <h3>Upcoming Events</h3>
                             <table class="activityTable">
                                 <tr>
-                                    <td width="69%"><a href="#">Oski</a> is hosting a soccer match</td>
+                                    <td width="69%"><a href="under-construction.php">Oski</a> is hosting a soccer match</td>
                                     <td><span class="textSmall">In 4 days</span></td>
-                                    <td align="center"><input type="submit" class="button small" value="join" /></td>
+                                    <td align="center"><a href="under-construction.php" class="button small">join</a></td>
                                 </tr>
                                 <tr>
-                                    <td>Weekly jog with <a href="#">Joe Bruin</a></td>
+                                    <td>Weekly jog with <a href="under-construction.php">Joe Bruin</a></td>
                                     <td><span class="textSmall">In 6 days</span></td>
-                                    <td align="center"><a class="textSmall" href="#">Cancel Event</a></td>
+                                    <td align="center"><a class="textSmall" href="under-construction.php">Cancel Event</a></td>
                                 </tr>
                             </table>
                         </div>
@@ -93,12 +93,12 @@
                             <h3>Your Recent Activity</h3>
                             <table class="activityTable">
                                 <tr>
-                                    <td width="69%">You jogged with <a href="#">Joe Bruin</a></td>
+                                    <td width="69%">You jogged with <a href="under-construction.php">Joe Bruin</a></td>
                                     <td><span class="textSmall">Yesterday</span></td>
                                     <td><span class="positive">+30</span></td>
                                 </tr>
                                 <tr>
-                                    <td>You played soccer with <a href="#">Triton</a></td>
+                                    <td>You played soccer with <a href="under-construction.php">Triton</a></td>
                                     <td><span class="textSmall">2 days ago</span></td>
                                     <td><span class="positive">+15</span></td>
                                 </tr>
