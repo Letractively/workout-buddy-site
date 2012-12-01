@@ -157,6 +157,26 @@ label.small
 	height: 8px;
 }
 
+.healthBar.huge
+{
+	display: block;
+	border: 1px solid;
+	width: 95%;
+	height: 30px;
+	margin-bottom: 1.5em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.healthBar.huge .healthBar-amount
+{
+	background-color: green;
+	position: relative;
+	top: 3px;
+	left: 3px;
+	height: 24px;
+}
+
 .positive
 {
 	color: green;
