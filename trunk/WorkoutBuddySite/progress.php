@@ -19,14 +19,34 @@
             <li><a href="rewards.php">Rewards</a></li>
         </ul>
         <div class="content">
-            <p align="right"><a href="#" class="button medium">Add New Activity</a>
+            <p align="right" style="padding-right:12px"><a href="#" class="button medium">Add New Activity</a>
             <h4>Your Current Fitness Level</h4>
             <div class="healthBar huge"><div class="healthBar-amount" style="width:80%"></div></div>
             <h4>Your Area's Average Fitness Level</h4>
             <div class="healthBar huge"><div class="healthBar-amount" style="width:70%"></div></div>
             <h4>Your Fitness Level Over Time</h4>
             <table id="chart">
+            	<tr>
+                	<td><div class="entry" style="height:80%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:70%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:72%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:74%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:70%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:65%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:60%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:50%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:45%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:60%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:65%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:65%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:60%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:75%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:85%">&nbsp;</div></td>
+                    <td><div class="entry" style="height:80%">&nbsp;</div></td>
+                </tr>
             </table>
+            <h4>Your Health</h4>
+            
         </div>
     </div>
 </body>
