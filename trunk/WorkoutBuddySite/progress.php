@@ -27,22 +27,22 @@
             <h4>Your Fitness Level Over Time</h4>
             <table id="chart">
             	<tr>
-                	<td><div class="entry" style="height:80%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:70%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:72%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:74%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:70%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:65%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:60%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:50%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:45%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:60%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:65%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:65%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:60%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:75%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:85%">&nbsp;</div></td>
-                    <td><div class="entry" style="height:80%">&nbsp;</div></td>
+                	<td><div class="entry" style="height:250px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:265px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:275px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:255px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:230px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:205px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:165px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:135px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:120px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:130px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:135px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:140px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:160px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:185px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:200px">&nbsp;</div></td>
+                    <td><div class="entry" style="height:220px">&nbsp;</div></td>
                 </tr>
             </table>
             <h4>Your Health</h4>
