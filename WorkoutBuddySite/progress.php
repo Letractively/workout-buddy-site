@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Dashboard - Workout Buddy</title>
+    <title>Progress - Workout Buddy</title>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" type="text/css" href="styles/progress.css">
 </head>
 <body>
     <div class="main-container">
@@ -18,7 +19,14 @@
             <li><a href="rewards.php">Rewards</a></li>
         </ul>
         <div class="content">
-            <h3>Progress</h3>
+            <p align="right"><a href="#" class="button medium">Add New Activity</a>
+            <h4>Your Current Fitness Level</h4>
+            <div class="healthBar huge"><div class="healthBar-amount" style="width:80%"></div></div>
+            <h4>Your Area's Average Fitness Level</h4>
+            <div class="healthBar huge"><div class="healthBar-amount" style="width:70%"></div></div>
+            <h4>Your Fitness Level Over Time</h4>
+            <table id="chart">
+            </table>
         </div>
     </div>
 </body>

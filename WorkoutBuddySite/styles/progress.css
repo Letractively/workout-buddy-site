@@ -1,0 +1,16 @@
+﻿h4
+{
+	margin: 0.5em 0;
+}
+
+#chart
+{
+	display: block;
+	border-collapse: collapse;
+	border: 1px solid black;
+	width: 95%;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+}
