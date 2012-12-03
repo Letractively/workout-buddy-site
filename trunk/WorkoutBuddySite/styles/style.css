@@ -129,6 +129,7 @@ label.small
 	border: 1px solid;
 	width: 200px;
 	height: 20px;
+	margin-bottom: 5px;
 }
 
 .healthBar.large .healthBar-amount
@@ -186,5 +187,10 @@ label.small
 .negative
 {
 	color: red;
+	font-weight: bold;
+}
+
+.fitnessLevel
+{
 	font-weight: bold;
 }
