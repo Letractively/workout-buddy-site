@@ -6,7 +6,7 @@ function notification()
 		var newRow = 
 		[
 			"<tr>",
-			"<td width=\"69%\"><a href=\"under-construction.html\">Oski</a> wants to register going to the gym with you.</td>",
+			"<td width=\"69%\"><a href=\"under-construction.html\">Oski</a> says you went to the gym together 4 days ago</td>",
 			"<td align=\"left\"><span class=\"textSmall\">Right Now</span></td>",
 			"<td align=\"right\"><a href=\"under-construction.html\" id=\"btnConfirm\" class=\"button small\">Confirm</a></td>",
 			"</tr>"
