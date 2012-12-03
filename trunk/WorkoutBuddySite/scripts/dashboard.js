@@ -35,3 +35,27 @@ function notification()
 		});
 	}, 2000);
 }
+
+$(document).ready(function()
+{
+	var btnJoin = $("#btnJoin");	
+	btnJoin.click(function()
+	{		
+		if (btnJoin.text() === "Cancel") return false;
+		
+		var upcomingRow = $("#upcomingRow");
+		var registeredTable = $("#registeredTable");
+		
+		upcomingRow.fadeOut(120, function()
+		{
+			registeredTable.find("tbody").append(upcomingRow);
+			btnJoin.text("Cancel");
+			upcomingRow.fadeIn(120);
+			
+			var upcomingTable = $("#upcomingTable");
+			upcomingTable.find("tbody").append("<tr><td><span class=\"textSmall\">No upcoming events</span></td></tr>");
+		});
+		
+		return false;
+	});
+});
