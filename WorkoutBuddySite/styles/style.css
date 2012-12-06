@@ -194,3 +194,9 @@ label.small
 {
 	font-weight: bold;
 }
+
+label.bold
+{
+	font-size: 120%;
+	font-weight: bold;
+}
