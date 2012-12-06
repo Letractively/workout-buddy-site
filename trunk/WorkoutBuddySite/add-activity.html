@@ -1,0 +1,49 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Add Activity - Workout Buddy</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" type="text/css" href="styles/add-activity.css">
+</head>
+<body>
+    <div class="main-container">
+    	<div id="barUser">
+               	Welcome, <strong>Peter</strong> <span class="textSmall">(<a href="index.html">Sign out</a>)</span>
+        </div>
+        <h1>Workout Buddy</h1>
+        <ul id="barNav">
+            <li><a href="dashboard.html">Dashboard</a></li>
+            <li><a href="progress.html">Progress</a></li>
+            <li><a href="schedule.html">Schedule</a></li>
+            <li><a href="preferences.html">Preferences</a></li>
+            <li><a href="rewards.html">Rewards</a></li>
+        </ul>
+        <div class="content">
+            <h2>Add Activity</h2>
+            <div class="inputGroup">                	
+                <label for="txtName">What type of execise?</label><br />
+                <select>
+                	<option>Jogging</option>
+                    <option>Swimming</option>
+                    <option>Soccer</option>
+                    <option>Gym</option>
+                </select>
+            </div>
+            <div class="inputGroup">
+                <label for="txtAge">With who did you execise?</label><br />
+                <input type="radio" /><label style="padding-right: 6px">Friend:</label><input type="text" /><br />
+                <input type="radio" /><label>By myself</label><br /><span class="textSmall" style="padding-left:20px">Note: To prevent cheating, you can only log one individual activity per day.</span>
+            </div>
+            <div class="inputGroup">
+                <label>For how long?</label><br />
+                <input type="text" style="width:40px" /> Hour(s)
+            </div>
+            <div class="inputGroup">
+                <p></p>
+                <a class="button medium" href="dashboard.html">Submit</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
